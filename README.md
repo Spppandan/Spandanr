@@ -1,2 +1,1 @@
-# Spandanr
-Spandan Mandal project
+# PRO-C68-Template
